@@ -3,6 +3,9 @@
 ## Goal
 Improve access management at scale by organizing subscriptions with management groups and implementing least-privilege RBAC for a support team.
 
+## Architecture
+![Architecture diagram](screenshots/architecture.png)
+
 ## What I did
 - **Task 1:** Implemented **Management Groups** to logically organize subscriptions.
 - **Task 2:** Reviewed and assigned a **built-in role** (e.g., Virtual Machine Contributor) for VM management.
