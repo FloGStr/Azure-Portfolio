@@ -3,6 +3,9 @@
 ## Goal
 Improve governance and reporting by enforcing resource tagging standards, remediating non-compliant resources, and protecting critical scopes from accidental changes.
 
+## Architecture
+![Architecture diagram](screenshots/architecture.png)
+
 ## What I did
 - **Task 1:** Created and assigned resource **tags** (key/value) for governance and reporting (e.g., Cost Center).
 - **Task 2:** Enforced tagging requirements using **Azure Policy** (require a tag and value for new resources).
