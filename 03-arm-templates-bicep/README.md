@@ -21,3 +21,6 @@ Automate and standardize Azure resource deployments using Infrastructure as Code
 
 ## Outcome
 Demonstrated repeatable deployments using ARM templates and Bicep across different deployment tools (portal, PowerShell, CLI).
+
+## Templates (portfolio-ready)
+- [ARM & Bicep templates (clean versions)](../templates/lab03-arm-bicep-managed-disk/)
