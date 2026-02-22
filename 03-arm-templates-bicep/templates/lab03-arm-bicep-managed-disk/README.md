@@ -3,6 +3,6 @@
 This folder contains clean, simplified templates used to demonstrate Infrastructure as Code (IaC) concepts from Lab 03.
 
 ## Contents
-- `arm/template.json` – ARM template to deploy a managed disk
-- `arm/parameters.json` – example parameters file
-- `bicep/main.bicep` – equivalent Bicep template
+- [arm/template.json](arm/template.json) – ARM template to deploy a managed disk
+- [arm/parameters.json](arm/parameters.json) – example parameters file
+- [bicep/main.bicep](bicep/main.bicep) – equivalent Bicep template
